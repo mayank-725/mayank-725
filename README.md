@@ -5,7 +5,7 @@ I'm Mayank Sachdeva currently working as Software engineer based in Gurgaon,Hary
 
 🌱 I’m currently learning about Web development (HTML,CSS,JAVASCRIPT,REACTJS).
 
-📫 Connect and reach me  www.linkedin.com/in/mayank-sachdeva-22a4ba135
+📫 Connect and reach me <a href="www.linkedin.com/in/mayank-sachdeva-22a4ba135">linkedin</a> 
 
 <!--
 **mayank-725/mayank-725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
