@@ -8,7 +8,7 @@ I'm Mayank Sachdeva currently working as Software engineer based in Gurgaon,Hary
 📫 Connect and reach me on <a href="www.linkedin.com/in/mayank-sachdeva-22a4ba135">Linkedin</a> 
 
 ![](https://komarev.com/ghpvc/?username=mayank-725)
-
+![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank-725&count_private=true)
 ![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank-725&show_icons=true&theme=radical)
 <!--
 **mayank-725/mayank-725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
