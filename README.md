@@ -2,7 +2,9 @@
 I'm Mayank Sachdeva currently working as Software engineer based in Gurgaon,Haryana.
 
 🔭 I’m currently working on  Techologies such as Asp.Net Core Web API,ASpNet MVC,Worker Service,SQL Database Server.
+
 🌱 I’m currently learning about Web development (HTML,CSS,JAVASCRIPT,REACTJS).
+
 📫 Connect and reach me  www.linkedin.com/in/mayank-sachdeva-22a4ba135
 
 <!--
